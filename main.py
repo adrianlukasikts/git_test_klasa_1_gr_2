@@ -1,3 +1,3 @@
 print('abc')
 print('bca')
-print('nowa zmianna task1')
+print('nowa zmienna task2')
